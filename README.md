@@ -3,8 +3,8 @@
 Design and implementation of an 8 bit processor as part of an academic project.
 By:
 - Mrigyen Sawant
-- Tushar Parte
-- Hardik Kumawat
+- [Tushar Parte](https://github.com/niftyy)
+- [Hardik Kumawat](https://github.com/caperdango)
 
 ---
 
